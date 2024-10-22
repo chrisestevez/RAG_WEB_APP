@@ -40,4 +40,4 @@ In this project, I applied my data science and software development skills to cr
 
 <img src="./imgs/project.png"  weight="600" height="500"/>
 
-<img src="./imgs/llm.png"  weight="600" height="500",alt="src DataCamp"/>
+<img src="./imgs/llm.png"  weight="600" height="500"/>
